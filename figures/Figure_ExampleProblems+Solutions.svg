@@ -690,15 +690,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.18"
-     inkscape:cx="370.65856"
-     inkscape:cy="244.66096"
+     inkscape:cx="195.23483"
+     inkscape:cy="549.74571"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      showguides="true"
      fit-margin-top="0"
@@ -713,7 +713,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -866,35 +866,35 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.64583325px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="128.9382"
-       y="252.37556"
+       x="128.71397"
+       y="250.78809"
        id="text4531-9-0-8"><tspan
          sodipodi:role="line"
-         x="128.9382"
-         y="252.37556"
+         x="128.71397"
+         y="250.78809"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
          id="tspan6348-7">-Removing personal information (username, etc) </tspan><tspan
          sodipodi:role="line"
-         x="128.9382"
-         y="255.70087"
+         x="128.71397"
+         y="254.11339"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
          id="tspan6373"> insufficient because text searching will reveal</tspan><tspan
          sodipodi:role="line"
-         x="128.9382"
-         y="259.02618"
+         x="128.71397"
+         y="257.43872"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
          id="tspan6377">-Report and share aggregate statistics</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.64583325px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="27.238577"
+       x="17.312035"
        y="282.49881"
        id="text4531-9-0-8-3"><tspan
          sodipodi:role="line"
-         x="27.238577"
+         x="17.312035"
          y="282.49881"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
-         id="tspan6377-2">Include code used to aggregate or summarize in order to ensure future analyses can use comparable approach</tspan></text>
+         id="tspan6377-2">Include procedure or code used to aggregate or summarize in order to ensure future analyses can use comparable approach</tspan></text>
     <g
        id="g7142">
       <rect
@@ -975,41 +975,51 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.64583325px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="5.1804399"
-       y="252.37556"
+       y="244.17055"
        id="text4531-9-0-3"><tspan
          sodipodi:role="line"
          x="5.1804399"
-         y="252.37556"
+         y="244.17055"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
          id="tspan6348-4">-If location unimportant, de-geotag and report</tspan><tspan
          sodipodi:role="line"
          x="5.1804399"
-         y="255.70087"
+         y="247.49585"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
          id="tspan7663">  tabular data</tspan><tspan
          sodipodi:role="line"
          x="5.1804399"
-         y="259.02618"
+         y="250.82115"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
          id="tspan7213">-If spatial relationships but not absolute location </tspan><tspan
          sodipodi:role="line"
          x="5.1804399"
-         y="262.35147"
+         y="254.14645"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
          id="tspan7667">  important preserve relative locations</tspan><tspan
          sodipodi:role="line"
          x="5.1804399"
-         y="265.67679"
+         y="257.47177"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
          id="tspan7669">-If absolute location important, aggregate</tspan><tspan
          sodipodi:role="line"
          x="5.1804399"
-         y="269.00208"
+         y="260.79709"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
          id="tspan7671">  spatially to anonymize</tspan><tspan
          sodipodi:role="line"
          x="5.1804399"
-         y="272.30939"
+         y="264.12238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
+         id="tspan1278">-Include information about uncertainty in </tspan><tspan
+         sodipodi:role="line"
+         x="5.1804399"
+         y="267.44769"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
+         id="tspan1280">  classification or model output</tspan><tspan
+         sodipodi:role="line"
+         x="5.1804399"
+         y="270.75497"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
          id="tspan7665" /></text>
     <text
@@ -1109,36 +1119,36 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.64583325px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="67.071205"
-       y="252.37556"
+       y="250.78809"
        id="text4531-9-0"><tspan
          sodipodi:role="line"
          x="67.071205"
-         y="252.37556"
+         y="250.78809"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
          id="tspan6348">-Spatially aggregate to eliminate individual </tspan><tspan
          sodipodi:role="line"
          x="67.071205"
-         y="255.70087"
+         y="254.11339"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
          id="tspan7675">  information</tspan><tspan
          sodipodi:role="line"
          x="67.071205"
-         y="259.02618"
+         y="257.43869"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
          id="tspan7677">-Remove spatial information if unimportant and</tspan><tspan
          sodipodi:role="line"
          x="67.071205"
-         y="262.35147"
+         y="260.76398"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
          id="tspan7679">  share tabular data</tspan><tspan
          sodipodi:role="line"
          x="67.071205"
-         y="265.67679"
+         y="264.08929"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
          id="tspan7681">-Work with pre-aggregated data from utility or</tspan><tspan
          sodipodi:role="line"
          x="67.071205"
-         y="269.00208"
+         y="267.41458"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332px"
          id="tspan7683">  company if individual houses unimportant</tspan></text>
     <path
